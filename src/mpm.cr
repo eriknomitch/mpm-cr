@@ -17,6 +17,16 @@ module Mpm
       print "\n"
     end
 
+    sub do
+      command "install"
+      desc "Install package"
+      usage "mpm install [query]"
+      run do |opts, args|
+        print "installing"
+        print args
+      end
+    end
+
   end
 end
 
