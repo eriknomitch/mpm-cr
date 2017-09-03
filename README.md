@@ -1,5 +1,7 @@
 # Meta Package Manager (mpm)
 
+**Entirely NOT unctional at the moment.** See [https://github.com/eriknomitch/mpm](For the Ruby version).
+
 ## Usage
 
 ### OS Package Manager
