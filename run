@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+crystal build src/*.cr -o bin/mpm && \
+  echo "Built 'mpm'."
