@@ -1,6 +1,6 @@
 # Meta Package Manager (mpm)
 
-**Entirely NOT unctional at the moment.** See [https://github.com/eriknomitch/mpm](For the Ruby version).
+**Entirely NOT unctional at the moment.** See [this repository/gem](https://github.com/eriknomitch/mpm) for the Ruby version which is semi-functional.
 
 ## Usage
 
